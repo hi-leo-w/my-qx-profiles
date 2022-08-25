@@ -1,0 +1,26 @@
+{
+    "name": "Flags",
+    "description": "Flags.",
+    "icons": [
+        {
+            "name": "US",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/Flags/US.png"
+        },
+        {
+            "name": "SG",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/Flags/SG.png"
+        },
+        {
+            "name": "HK",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/Flags/HK.png"
+        },
+        {
+            "name": "JP",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/Flags/JP.png"
+        },
+        {
+            "name": "KR",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/Flags/KR.png"
+        }
+    ]
+}
