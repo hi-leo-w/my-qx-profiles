@@ -1,0 +1,42 @@
+{
+    "name": "Web Icons",
+    "description": "Web Icons.",
+    "icons": [
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/YouTube.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Instagram.png"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Twitter.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Telegram.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Netflix.png"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Spotify.png"
+        },
+        {
+            "name": "Twitch",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Twitch.png"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Reddit.png"
+        },
+        {
+            "name": "Discord",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Discord.png"
+        }
+    ]
+}
